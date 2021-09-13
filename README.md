@@ -37,7 +37,7 @@ Deploy the application using one of the methods covered in class: Github Pages, 
 Edit this file (README.md) and complete the following:
 
 - URL to live application: https://bianca-morris.github.io/github-pages-deploy/
-- How did you deploy it? Painfully. ~~Just kidding (but not really)~~; with Github Pages.
+- How did you deploy it? with Github Pages.
 - What code editor are you using? VS Code
 
 That is all!
